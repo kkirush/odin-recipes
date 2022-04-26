@@ -1,0 +1,15 @@
+body {
+    background-color: #252222;
+    font-family: Helvetica;
+}
+h1 {
+    color: white;
+}
+h3 {
+    color: white;
+    font-size: 27px;
+}
+li, p {
+    color: white;
+    font-size: 20px;
+}
